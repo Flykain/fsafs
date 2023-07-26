@@ -1,0 +1,156 @@
+
+
+[29/03/2023, 17:12:05] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.15.0
+Bot Version: 1.5.3
+
+[17.7.2023, 00:11:29] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[17.7.2023, 00:13:22] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[17.7.2023, 00:14:55] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[17.7.2023, 00:14:57] [READY] Bot is now ready!
+
+[17.7.2023, 00:15:17] [SLASH COMMAND] Command: panel, User: .assqer#0
+
+[17.7.2023, 00:16:06] [SLASH COMMAND] Command: stats, User: m7mdvenox#0
+
+[26.7.2023, 14:50:50] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[26.7.2023, 14:50:51] [READY] Bot is now ready!
+
+[26.7.2023, 14:58:19] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[26.7.2023, 14:58:20] [CONFIG ERROR(S)] 
+TicketButton1.TicketCategoryID is not a valid category!
+ TicketButton2.TicketCategoryID is not a valid category!
+ TicketButton3.TicketCategoryID is not a valid category!
+ TicketButton4.TicketCategoryID is not a valid category!
+ TicketButton5.TicketCategoryID is not a valid category!
+ TicketButton6.TicketCategoryID is not a valid category!
+ TicketButton1.SupportRoles is not a valid role!
+ TicketButton2.SupportRoles is not a valid role!
+ TicketButton3.SupportRoles is not a valid role!
+ TicketButton4.SupportRoles is not a valid role!
+ TicketButton5.SupportRoles is not a valid role!
+ TicketButton6.SupportRoles is not a valid role!
+
+[26.7.2023, 14:58:20] [READY] Bot is now ready!
+
+[26.7.2023, 14:58:31] [SLASH COMMAND] Command: panel, User: .assqer#0
+
+[26.7.2023, 14:58:31] [unhandledRejection] [v1.5.3]
+DiscordAPIError[50035]: Invalid Form Body
+components[0].components[0].options[2].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+components[0].components[0].options[5].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at SequentialHandler.runRequest (C:\Users\Ninja\OneDrive\Desktop\sss\node_modules\@discordjs\rest\dist\index.js:933:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.queueRequest (C:\Users\Ninja\OneDrive\Desktop\sss\node_modules\@discordjs\rest\dist\index.js:712:14)
+    at async REST.request (C:\Users\Ninja\OneDrive\Desktop\sss\node_modules\@discordjs\rest\dist\index.js:1321:22)
+    at async TextChannel.send (C:\Users\Ninja\OneDrive\Desktop\sss\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:176:15)
+
+[26.7.2023, 15:00:38] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[26.7.2023, 15:00:39] [READY] Bot is now ready!
+
+[26.7.2023, 15:00:44] [SLASH COMMAND] Command: panel, User: .assqer#0
+
+[26.7.2023, 15:00:45] [unhandledRejection] [v1.5.3]
+DiscordAPIError[50035]: Invalid Form Body
+components[0].components[0].options[2].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+components[0].components[0].options[5].emoji.id[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at SequentialHandler.runRequest (C:\Users\Ninja\OneDrive\Desktop\sss\node_modules\@discordjs\rest\dist\index.js:933:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.queueRequest (C:\Users\Ninja\OneDrive\Desktop\sss\node_modules\@discordjs\rest\dist\index.js:712:14)
+    at async REST.request (C:\Users\Ninja\OneDrive\Desktop\sss\node_modules\@discordjs\rest\dist\index.js:1321:22)
+    at async TextChannel.send (C:\Users\Ninja\OneDrive\Desktop\sss\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:176:15)
+
+[26.7.2023, 15:01:47] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[26.7.2023, 15:01:49] [READY] Bot is now ready!
+
+[26.7.2023, 15:01:54] [SLASH COMMAND] Command: panel, User: .assqer#0
+
+[26.7.2023, 15:10:26] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[26.7.2023, 15:10:27] [READY] Bot is now ready!
+
+[26.7.2023, 15:10:32] [SLASH COMMAND] Command: panel, User: .assqer#0
+
+[26.7.2023, 15:10:57] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[26.7.2023, 15:10:58] [READY] Bot is now ready!
+
+[26.7.2023, 15:11:02] [SLASH COMMAND] Command: panel, User: .assqer#0
+
+[26.7.2023, 15:16:04] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[26.7.2023, 15:16:06] [READY] Bot is now ready!
+
+[26.7.2023, 15:16:10] [SLASH COMMAND] Command: panel, User: .assqer#0
+
+[26.7.2023, 15:16:27] [TICKET CREATION] Button: TicketButton1, User: .assqer#0
+
+[26.7.2023, 15:16:37] [ERROR] [v1.5.3]
+Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.
+    at ModalSubmitInteraction.editReply (C:\Users\Ninja\OneDrive\Desktop\sss\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:157:48)
+    at module.exports (C:\Users\Ninja\OneDrive\Desktop\sss\events\ticketClose.js:10:105)
+    at Client.emit (node:events:513:28)
+    at module.exports (C:\Users\Ninja\OneDrive\Desktop\sss\events\interactionCreate.js:2704:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+[26.7.2023, 15:17:28] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[26.7.2023, 15:17:30] [READY] Bot is now ready!
+
+[26.7.2023, 15:17:30] [CONFIG ERROR(S)] 
+ArchiveTickets.TranscriptChannelID is not a valid channel!
+
+[26.7.2023, 15:17:34] [unhandledRejection] [v1.5.3]
+DiscordAPIError[50035]: Invalid Form Body
+parent_id[CHANNEL_PARENT_INVALID]: Category does not exist
+    at SequentialHandler.runRequest (C:\Users\Ninja\OneDrive\Desktop\sss\node_modules\@discordjs\rest\dist\index.js:933:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.queueRequest (C:\Users\Ninja\OneDrive\Desktop\sss\node_modules\@discordjs\rest\dist\index.js:712:14)
+    at async REST.request (C:\Users\Ninja\OneDrive\Desktop\sss\node_modules\@discordjs\rest\dist\index.js:1321:22)
+    at async GuildChannelManager.edit (C:\Users\Ninja\OneDrive\Desktop\sss\node_modules\discord.js\src\managers\GuildChannelManager.js:299:21)
+    at async ArchiveTicket (C:\Users\Ninja\OneDrive\Desktop\sss\events\ticketClose.js:270:51)
+
+[26.7.2023, 15:17:53] [TICKET CLOSED] A ticket has been successfully closed
+
+[26.7.2023, 15:21:13] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[26.7.2023, 15:21:14] [READY] Bot is now ready!
+
+[26.7.2023, 15:21:22] [SLASH COMMAND] Command: panel, User: .assqer#0
+
+[26.7.2023, 15:27:46] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.16.1
+Bot Version: 1.5.3
+
+[26.7.2023, 15:27:47] [READY] Bot is now ready!
